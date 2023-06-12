@@ -1,0 +1,7 @@
+# ninja log v5
+23338	24613	1676448463634878019	/home/gallaann/AndroidStudioProjects/FirstClient/app/build/intermediates/cxx/Debug/q1k4f11q/obj/x86_64/libnative-lib.so	dc9d42aa2f206c75
+45	8286	1678436064877661528	CMakeFiles/firstclient.dir/native-lib.cpp.o	1a2846a24675e8f5
+29	23336	1676448462297867332	CMakeFiles/native-lib.dir/native-lib.cpp.o	3750ceeb0125272
+8286	13317	1678436070624729053	/home/gallaann/AndroidStudioProjects/FirstClient/app/build/intermediates/cxx/Debug/q1k4f11q/obj/x86_64/libfirstclient.so	61e057e7c6f669da
+58	4747	1684489817937092639	CMakeFiles/firstclient.dir/native-lib.cpp.o	1a2846a24675e8f5
+4747	6765	1684489820069111314	/home/gallaann/AndroidStudioProjects/FirstClient/app/build/intermediates/cxx/Debug/q1k4f11q/obj/x86_64/libfirstclient.so	61e057e7c6f669da

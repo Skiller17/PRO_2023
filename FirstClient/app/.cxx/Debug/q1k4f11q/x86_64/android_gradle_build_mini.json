@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "/home/gallaann/AndroidStudioProjects/FirstClient/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/gallaann/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/gallaann/AndroidStudioProjects/FirstClient/app/.cxx/Debug/q1k4f11q/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/gallaann/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/gallaann/AndroidStudioProjects/FirstClient/app/.cxx/Debug/q1k4f11q/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "firstclient::@6890427a1f51a3e7e1df": {
+      "artifactName": "firstclient",
+      "abi": "x86_64",
+      "output": "/home/gallaann/AndroidStudioProjects/FirstClient/app/build/intermediates/cxx/Debug/q1k4f11q/obj/x86_64/libfirstclient.so",
+      "runtimeFiles": [
+        "/home/gallaann/AndroidStudioProjects/FirstClient/app/src/main/nativeLibs/x86_64/libmbedcrypto.so"
+      ]
+    }
+  }
+}

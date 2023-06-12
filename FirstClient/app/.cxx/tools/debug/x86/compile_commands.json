@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gallaann/AndroidStudioProjects/FirstClient/app/.cxx/Debug/q1k4f11q/x86",
+  "command": "/home/gallaann/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android28 --sysroot=/home/gallaann/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dfirstclient_EXPORTS -I/home/gallaann/AndroidStudioProjects/libs/spdlog/spdlog/include -I/home/gallaann/AndroidStudioProjects/libs/mbedtls/mbedtls/include -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles/firstclient.dir/native-lib.cpp.o -c /home/gallaann/AndroidStudioProjects/FirstClient/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/gallaann/AndroidStudioProjects/FirstClient/app/src/main/cpp/native-lib.cpp"
+}
+]
